@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wavesurfer"
+    }
+  },
+  "defaultProject": "wavesurfer",
+  "cli": {
+    "analytics": false
+  }
 }
